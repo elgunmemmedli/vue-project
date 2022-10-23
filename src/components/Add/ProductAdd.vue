@@ -12,7 +12,7 @@ import {mapGetters} from 'vuex'
             <div class="card shadow-lg border-0 rounded-lg mt-5">
               <div class="card-header">
                 <h3 class="text-center font-weight-light my-4">
-                  Məhsul əlave et
+                  Məhsulları əlave et
                 </h3>
               </div>
               <div class="card-body">

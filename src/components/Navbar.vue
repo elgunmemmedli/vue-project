@@ -9,7 +9,7 @@ import {RouterLink} from 'vue-router'
                             <div class="sb-sidenav-menu-heading">Core</div>
                             <RouterLink class="nav-link" to="/">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
-                                Dashboard
+                                Admin Panel
                             </RouterLink>
                             <RouterLink class="nav-link" to="/tables">
                                 <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
